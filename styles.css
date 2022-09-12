@@ -1,0 +1,29 @@
+/* *: universal selector
+
+* {
+  margin: 0;
+  padding: 0;
+  color: red;
+}
+
+/* tag-name selector */
+
+/* p {
+  color: red;
+} */
+
+/* h3 {
+  font-size: 14px;
+}  */
+
+/* class-name selector */
+/* .heading {
+  font-style: italic;
+  /* color: red; */
+/* } */ 
+
+
+/* id selector */
+/* #main-language {
+  font-weight: bold;
+}  */
